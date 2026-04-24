@@ -2,7 +2,11 @@
 
 A fully responsive invoice management application built with React, React Router, and Tailwind CSS v4. This was built as part of the HNG Frontend Wizards Stage 2 task.
 
-[Live Demo](https://invoice-mgmt-odielijah.netlify.app/)
+**[View Live Demo](https://invoice-mgmt-odielijah.netlify.app/)**
+
+## 🎬 Project Preview
+https://github.com/user-attachments/assets/dcf3aa71-2460-4fb9-8ac5-f61b3552005c
+
 
 ---
 
