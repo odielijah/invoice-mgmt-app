@@ -15,7 +15,7 @@ A fully responsive invoice management application built with React, React Router
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/odielijah/invoice-mgmt-app.git
 cd invoice-app
 npm install
 npm run dev
