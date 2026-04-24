@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/dcf3aa71-2460-4fb9-8ac5-f61b3552005c
 
 ```bash
 git clone https://github.com/odielijah/invoice-mgmt-app.git
-cd invoice-app
+cd invoice-mgmt
 npm install
 npm run dev
 ```
